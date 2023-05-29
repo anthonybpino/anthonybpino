@@ -1,11 +1,13 @@
-<h1 align="center">Hey there 👋, I'm Anthony Pino</h1>
+<h1 align="center">Hey ✌️, I'm Anthony Pino</h1>
 <h3 align="center">A coffee-addicted data analyst from Santa Fe, NM</h3>
 
 - 🌱 I’m currently learning **Javascript, D3 and Leaflet**
 
 - 💬 Ask me about **whatever you'd like**
 
-- ✉️ How to reach me **anthonybpino@proton.me**
+- ✉️ How to reach me: **anthonybpino@proton.me**
+
+- ⚡ Fun fact: **Salmon nigiri is the truth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
