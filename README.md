@@ -7,7 +7,7 @@
 
 - ✉️ How to reach me: **anthonybpino@proton.me**
 
-- ⚡ Fun fact: **Salmon nigiri is the truth**
+- ⚡ Fun fact: **Bilingual English/French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
